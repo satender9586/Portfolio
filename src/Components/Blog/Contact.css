@@ -1,0 +1,86 @@
+.images .img {
+    height: 10rem;
+    width: 100%;
+
+}
+
+
+
+
+.Contact{
+    margin-bottom: 5rem;
+}
+.Contact .left{
+    width: 36%;
+}
+.right{
+    width: 60%;
+}
+.Contact .box{
+    padding: 30px;
+}
+
+.Contact .details h1{
+    font-size: 30px;
+    margin: 20px 0 10px 0;
+}
+.Contact .details p{
+    font-size: 14px;
+}
+.Contact button{
+    margin-right: 15px;
+    margin-top: 10px;
+}
+.Contact .right{
+    padding: 35px;
+    
+}
+.Contact input{
+    margin-top: 10px;
+   
+}
+.Contact .right button{
+    width: 100%;
+    color: #ff014f;
+}
+.Contact .right button:hover{
+    color: wheat;
+}
+.Contact .right button i{
+    margin-left: 10px;
+}
+.box_shadow{
+    background: linear-gradient(145deg, #e2e8ec, #ffffff);
+    box-shadow: 4px 4px 8px #cbcbcb, 4px -4px 8px #ffffff;
+}
+
+.input{
+    
+    margin: 5px 0 ;
+    width: 100%;
+}
+.input input{
+    width: 100%;
+    height: 2.5rem;
+    outline: none;
+    border: none;
+    background: #fef8f8;
+    padding: 5px;
+    border-radius: 5px;
+    border: 0.5px solid rgb(158, 156, 156);
+}
+.input >span{
+    font-size: 0.9rem;
+    font-weight: bold;
+    opacity: 0.8;
+    color: #848383;
+}
+textarea{
+    width: 100%;
+    resize: none;
+    border: none;
+    padding: 5px;
+    outline: none;
+    border-radius: 5px;
+    border: 0.5px solid rgb(158, 156, 156);
+}

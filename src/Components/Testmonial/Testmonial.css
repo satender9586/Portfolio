@@ -1,0 +1,50 @@
+ .testmonial .img{
+    background: linear-gradient(145deg, #e2e8ec, #ffffff);
+    box-shadow: 4px 4px 8px #cbcbcb, 4px -4px 8px #ffffff;
+    border: 0.5rem solid #ff014f;
+    background-size: cover;
+   
+    
+ }
+ .img img{
+    width: 100%;
+}
+
+.slider{
+   
+    padding: 1rem;
+    border-radius: 0.5rem;
+    background: linear-gradient(145deg, #e2e8ec, #ffffff);
+    box-shadow: 4px 4px 8px #cbcbcb, 4px -4px 8px #ffffff,-4px -4px 8px #cbcbcb, -4px -4px 8px #ffffff;
+    width: 90%;
+    margin: auto;
+}
+.testmonial .left{
+    
+    width: 35%;
+    padding: 1rem;
+}
+.testmonial .right{
+    
+    width: 65%;
+    padding: 1rem;
+}
+.testmonial .icon i{
+    font-size: 50px;
+    opacity: 0.1;
+}
+.testmonial .content{
+    padding: 4rem;
+
+}
+.testmonial .content h1{
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+}
+.testmonial .content h3{
+    font-size: 1rem;
+    margin: 0.5rem;
+}
+.testmonial .content p{
+    color: black;
+}
